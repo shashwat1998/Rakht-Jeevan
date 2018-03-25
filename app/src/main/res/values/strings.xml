@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RAKHt JEEVAn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="blood_group">Blood Group</string>
+    <string name="SOS_button">SOS</string>
+    <string name="Location" />
+    <string name="location">Add your location</string>
+    <string-array name="Blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string name="title_activity_bleed_gums">bleed_gums</string>
+    <string name="about">
+        <![CDATA[
+        <p>We all are well aware about the importance of the fixed amount of blood in the body and also that a drop in it\'s amount can be fatal.</p>
+         <p>To tackle such situations can be very complex hence we bring to you this handy app. Here you can manage your emergency contac
+         ts and inform them in case of an emergency,browse nearest medical facilities, look up first aids for various situat
+         ions and share app with your friends.</p>
+         ]]>
+    </string>
+    <string name="ear"><![CDATA[
+    <p>Bleeding Ears If you are with someone and there is blood coming from their ear, this is a serious cause for concern. Typically, a bleeding ear indicates a head injury so there are basic first aid steps that should be followed.</p>
+     <p>1. Gently place a sterile gauze or pad over the ear, not inside the ear! 2. Lay the individual on their side so that the affected ear is on the ground. This will allow blood and fluids to drain outward.</p>
+     <p>3. Always treat the individual as if you are dealing with a serious head injury and do not allow them to fall asleep. You want them to be calm and relaxed yet awake. Reassure them and ask questions so they talk if you feel as though they are going to dose off.</p>
+]]></string>
+
+</resources>

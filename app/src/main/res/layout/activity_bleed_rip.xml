@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=">>If Finger got ripped apart
+
+ 1.If part of a finger is amputated, the priority is to look after the child. Sit them down, reassure them and grab a cloth to apply direct pressure to the stump, elevate the injured hand above the level of the heart.
+ 2.Do not worry about the amputated part, until bleeding has been controlled and the child is calmer. Pick up the finger, do not wash it. Wrap it in a cloth, put this in a plastic bag and then put on an ice pack.
+ 3.Do not let the ice come directly into contact with the amputated part as it will cause ice burns and mean that the finger will not be able to be sewn back.
+ 4. You are chilling, not freezing the amputated part to prevent it decomposing. Transport the child and amputated finger to hospital, if necessary by ambulance.
+ 5.If the finger is still partly attached with a blood supply, bandage the severed part carefully in situ, not too tightly, support and elevate the hand and call an ambulance.
+ 6.If fingers are crushed and bruised, but there is no amputation, run the damaged area under cool running water for 10 minutes, then apply a wrapped ice pack, elevate the injured hand and seek medical advice  "
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="6dp" />
+    </ScrollView>
+</RelativeLayout>

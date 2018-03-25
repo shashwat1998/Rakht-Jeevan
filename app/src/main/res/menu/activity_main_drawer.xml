@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="About" />
+        <item
+            android:id="@+id/blood_banks"
+            android:icon="@drawable/ic_heart_black_24dp"
+            android:title="Nearby Blood Banks" />
+        <item
+            android:id="@+id/hospitals"
+            android:icon="@drawable/ic_add_location_black_24dp"
+            android:title="Nearby Hospitals" />
+        <item
+            android:id="@+id/bloodloss"
+            android:icon="@drawable/ic_local_hospital_black_24dp"
+            android:title="Blood Loss Sitautions" />
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/ic_account_pin_black_24dp"
+            android:title="Account" />
+
+
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/dev"
+                android:icon="@drawable/ic_android_black_24dp"
+                android:title="Developers" />
+        </menu>
+    </item>
+
+</menu>

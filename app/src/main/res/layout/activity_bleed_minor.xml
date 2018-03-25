@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=">>>>For Minor Bleeding From a Small Cut or Scrape:
+                                                                                    • Rinse the wound thoroughly with water to clean out dirt and debris.                                         • Wash the wound with a mild soap and rinse well. (For minor wounds, you don't need to use an antiseptic solution to prevent infection, and some can cause allergic skin reactions.)                • Cover the wound with a sterile adhesive bandage or sterile gauze and adhesive tape.           • If the bandage gets wet, remove it and apply a new one. After the wound forms a scab, a bandage isn't needed.                                                                                           • Check the wound daily. Call your doctor if the wound is red, swollen, tender, warm, or draining pus.
+
+
+
+ >>>>For Bleeding From a Large or Deep Cut or Tear:
+
+  •Rinse off the wound with water so you can see it clearly and check its size.                                   • Place a piece of sterile gauze or a clean cloth over the entire wound. If available, wear clean latex or rubber gloves.                                             • If you can, raise the bleeding body part above the level of the child's heart. Do not apply a tourniquet.
+  • Using the palm of your hand on the gauze or cloth, apply steady, direct pressure to the wound for 5 minutes. (During the 5 minutes, do not stop to check the wound or remove blood clots that may form on the gauze.)
+   • If blood soaks through the gauze, do not remove it. Apply another gauze pad on top and continue applying pressure. Call your doctor or get immediate medical care for all large or cuts or tears, or
+    if:
+     • you can't stop the bleeding after 5 minutes of pressure, or if the wound begins bleeding again (continue applying pressure until help arrives)
+    • you can't clean out dirt and debris thoroughly, or there's something else stuck in the wound
+    • the wound is on the child's face or neck
+    • the injury was caused by an animal or human bite, a burn, electrical injury, or puncture wound (e.g., a nail)
+    • the cut is more than half an inch long or appears to be deep — large or deep wounds can result in nerve or tendon damage
+
+
+
+     >>>>For severe bleeding
+     1. Remove any clothing or debris on the wound. Don't remove large or deeply embedded objects. Don't probe the wound or attempt to clean it yet. Your first job is to stop the bleeding. Wear disposable protective gloves if available.
+     2. Stop the bleeding. Place a sterile bandage or clean cloth on the wound. Press the bandage firmly with your palm to control bleeding. Apply constant pressure until the bleeding stops. Maintain pressure by binding the wound with a thick bandage or a piece of clean cloth. Don't put direct pressure on an eye injury or embedded object. Secure the bandage with adhesive tape or continue to maintain pressure with your hands. If possible, raise an injured limb above the level of the heart.
+     3. Help the injured person lie down. If possible, place the person on a rug or blanket to prevent loss of body heat. Calmly reassure the injured person.
+     4. Don't remove the gauze or bandage. If the bleeding seeps through the gauze or other cloth on the wound, add another bandage on top of it. And keep pressing firmly on the area.
+     5. Tourniquets: A tourniquet is effective in controlling life-threatening bleeding from a limb. Apply a tourniquet if you're trained in how to do so. When emergency help arrives, explain how long the tourniquet has been in place.
+     6. Immobilize the injured body part as much as possible.Leave the bandages in place and get the injured person to an emergency room as soon as possible. "
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+
+    </ScrollView>
+</RelativeLayout>

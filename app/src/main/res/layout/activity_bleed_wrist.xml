@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="15dp"
+            android:text="Slit Wrist
+
+Stop the Bleeding
+       1. In the wrists there are both a very large artery and vein. Once they are pierced, they will gush blood until the person dies, unless something is done quickly. So, stopping or at least slowing the bleeding is your number one priority. First you want to get very high pressure over the slit wrist. The best way to do this quickly is to get something to serve as a bandage and wrap it tightly around the wrist. Obviously, bandages and gauze are best for this, but strips of cloth, towel, and clothing are fine also. Use whatever is handy, don’t waste time looking for something clean.
+    2.Once this has been applied, don’t remove it, even when it bleed through. Instead, apply  more bandaging and pressure on top of it. There is a pressure point on the inside fold of the elbow. Putting pressure here will also slow blood flow to the wrist.
+   3. Try to avoid tourniquets except as a very last resort to save a life. The only exception would be to apply the tourniquet momentarily as you apply the bandage. Then, release it to allow blood flow to return to the arm.
+
+
+    After
+    If someone has a slit wrist due to an attempted suicide, you need to make sure that they get proper medical and psychological help for their condition. There is usually some serious problem, like acute depression, that needs immediate and long term attention. Luckily there are many successful programs and treatments that will reduce the likelyhood of a repeat attempt."
+
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="2dp" />
+
+    </ScrollView>
+</RelativeLayout>

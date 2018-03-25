@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cut on head Bleeding
+
+When emergency treatment is necessary
+If a cut from a head injury is deep enough to have penetrated the skull, emergency treatment is needed. Call on other emergency services immediately. Do not apply pressure if:
+
+1. The skull is deformed. Signs of deformity may include sunken areas, visible bone fragments, or exposed brain.
+2. The injury involves the eye.
+3.A cut is deep enough to pierce the skull
+
+
+Stopping the bleeding from a minor wound
+1. Before you try to stop the bleeding:
+	○ Wash your hands well with soap and water (if available).
+	○ If treating another person's wound, put on latex gloves, if you have them, before applying pressure to the wound. If gloves are not available, use several layers of fabric or plastic bags between your hand and the wound. Use your bare hands to apply pressure only as a last resort.
+2.Have the person lie down.
+3.Remove any visible objects from the wound. Do not attempt to clean out the wound.
+4.Press firmly on the wound with gauze, a clean cloth, or the cleanest material available. If there is an object in the wound that you can't remove, apply pressure around the object, not directly over it.
+5.Apply steady pressure for a full 15 minutes. Use a clock to time the 15 minutes. Resist the urge to peek after a few minutes to see if bleeding has stopped. If blood soaks through the cloth, apply another one without lifting the first.
+6.If moderate to severe bleeding has not slowed or stopped, continue direct pressure while getting help. Do all you can to keep the wound clean and avoid further injury to the area.
+7.Mild bleeding usually stops on its own or slows to an ooze or trickle after 15 minutes of pressure. It may ooze or trickle for up to 45 minutes.
+8.Watch for signs of shock, which is a life-threatening situation that requires emergency care. Signs of shock (most of which will be present) include:
+	○ Passing out (losing consciousness).
+	○ Feeling very dizzy or lightheaded, like you may pass out.
+	○ Feeling very weak or having trouble standing up.
+Being less alert. You may suddenly be unable to respond to questions, or you may be confused, restless, or fearful"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="3dp" />
+
+    </ScrollView>
+</RelativeLayout>

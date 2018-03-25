@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gums bleeding and teeth injuries
+
+What to Do If a baby, toddler, or young child injures the gums or baby teeth:
+
+1. Apply pressure to the area (if it's bleeding) with a piece of cold, wet gauze. If your child is old enough to follow directions, ask him or her to bite down on the gauze.
+2. Offer an ice pop to suck on to reduce swelling, or hold an ice-pack wrapped in a washcloth to the cheek.
+3. Give acetaminophen or ibuprofen as needed for pain.
+4. Call a dentist.
+5. Watch for swelling of the gums, pain, fever, or a change in the color of the tooth.
+
+
+ If a permanent tooth is chipped or broken:
+ 1. Collect all pieces of the tooth.
+ 2. Rinse the mouth with warm water.
+ 3. Call a dentist right away to schedule a visit. Seek Medical Care If a Permanent Tooth Is Knocked Out: Go to the dentist or emergency room right away after following these steps:  
+    1. Find the tooth. Call a dentist or emergency room right away if you aren't sure if it's a permanent tooth (baby teeth have smooth edges).
+    2. Hold the tooth by the crown (the &quot;chewing&quot; end of the tooth) — not the root.
+    3. Place the tooth in a balanced salt solution (a commercially available sterile product), if you have it. If not, place the tooth in a container of milk or your child's saliva. You also can place the tooth between your lower lip and gum. Do not store it in tap water.
+    4. For older kids and teens, try placing the tooth back in the socket without touching the root. Have your child bite down on gauze to help keep it in place.
+    5. If the tooth is stored in a container (rather than back in the socket), have your child bite down on a gauze pad or handkerchief to relieve bleeding and pain. "
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="1dp" />
+
+
+    </ScrollView>
+</RelativeLayout>

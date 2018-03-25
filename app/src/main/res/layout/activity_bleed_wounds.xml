@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bleeding Wounds
+
+1. Stop Bleeding
+	• Apply direct pressure on the cut or wound with a clean cloth, tissue, or piece of gauze until bleeding stops.
+	• If blood soaks through the material, don’t remove it. Put more cloth or gauze on top of it and continue to apply pressure.
+	• If the wound is on the arm or leg, raise limb above the heart, if possible, to help slow bleeding.
+	• Wash your hands again after giving first aid and before cleaning and dressing the wound.
+	• Do not apply a tourniquet unless the bleeding is severe and not stopped with direct pressur
+
+2. Clean Cut or Wound
+	• Gently clean with soap and warm water. Try to rinse soap out of wound to prevent irritation.
+	• Don’t use hydrogen peroxide or iodine, which can damage tissue.
+
+3. Protect the Wound
+	• Apply antibiotic cream to reduce risk of infection and cover with a sterile bandage.
+	• Change the bandage daily to keep the wound clean and dry.
+
+"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="1dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>
