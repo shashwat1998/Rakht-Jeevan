@@ -89,16 +89,13 @@ public class MainActivity extends AppCompatActivity
             fragmentManager.beginTransaction().replace(R.id.content_frame, new firstFrag()).commit();
             // Handle the camera action
         } else if (id == R.id.blood_banks) {
-            fragmentManager.beginTransaction().replace(R.id.content_frame, null).commit();
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=blood+banks+near+my+location"));
             startActivity(browserIntent);
 
         } else if (id == R.id.hospitals) {
-            fragmentManager.beginTransaction().replace(R.id.content_frame, null).commit();
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=hospitals+near+my+location"));
             startActivity(browserIntent);
         } else if (id == R.id.bloodloss) {
-            fragmentManager.beginTransaction().replace(R.id.content_frame, null).commit();
             Intent i=new Intent(this,bloodLossHome.class);
             startActivity(i);
         } else if (id == R.id.account) {
