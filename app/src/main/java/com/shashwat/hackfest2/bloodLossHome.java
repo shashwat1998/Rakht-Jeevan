@@ -11,6 +11,9 @@ public class bloodLossHome extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_blood_loss_home);
+
+
+
     }
 
     public void onClickMenstrual(View view){

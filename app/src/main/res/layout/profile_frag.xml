@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/blood_don_logo">
+    android:background="@drawable/blood">
 
     <Button
         android:id="@+id/but_view"
@@ -10,6 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView4"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp"
         android:text="View Emergency Contacts" />
 
     <Button
@@ -18,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_alignEnd="@+id/but_view"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="91dp"
+        android:layout_marginBottom="135dp"
         android:keyboardNavigationCluster="false"
         android:text="Add Emergency Contacts" />
 
@@ -26,10 +27,10 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
+        android:layout_below="@+id/button2"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="43dp"
         android:text="Hi USER!!"
+        android:textColor="@android:color/black"
         android:textSize="30sp"
         android:textStyle="bold" />
 

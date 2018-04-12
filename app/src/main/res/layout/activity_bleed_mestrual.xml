@@ -13,16 +13,7 @@
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Heavy Menstrual Flow
-
-
-1.Apply a cold compress on the abdomen. The cold temperature causes vasoconstriction which constricts the vessels of blood. This helps lessen the flow of blood and pain felt in the lower abdomen. Simply place ice cubes in a thin towel and tie it properly and place it on the abdomen for at least 15-20 minutes. Lie down for a few minutes and relax. Repeat this procedure every 4 hours as long as the symptoms can be felt.
-2.Apple cider vinegar functions as a stimulant that helps flushes out toxins from the body and maintains hormonal balance. It also helps minimize headaches, cramping, fatigue and irritability. In a glass of water, mix 1-2 teaspoons of raw and unfiltered apple cider vinegar and drink the solution at least 3 times every day during the menstrual cycle for the best results
-3.In a cup filled with hot water, add a teaspoon of cinnamon powder and simmer for a few minutes. Add a few drops of honey and drink it at least 2 times every day. Cinnamon helps lessen the heavy menstrual flow due to endometriosis, uterine fibroids. Cinnamon has anti-inflammatory and anti-spasmodic properties that help in relieving the menstrual cramps.
-4.• Grate or crush fresh ginger and place it in water to boil. Steep the ginger in boiling water for at least 10 minutes. Honey or sugar can be added to the solution and drink it at 4 times every day. Ginger provides relief for women suffering from heavy bleeding during menstrual periods.
- 
-
-"
+            android:text="@string/mestrual"
             android:textAppearance="@style/TextAppearance.AppCompat.Body2"
             android:textSize="18sp"
             android:textStyle="bold"

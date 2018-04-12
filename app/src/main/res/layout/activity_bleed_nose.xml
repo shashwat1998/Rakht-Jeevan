@@ -13,13 +13,7 @@
             android:id="@+id/textView4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="To stop a nosebleed:
-
-
-1.Sit down and firmly pinch the soft part of your nose, just above your nostrils, for at least 10-15 minutes
-2.Lean forward and breathe through your mouth – this will drain blood down your nose instead of down the back of your throat
-3.Place an ice pack or bag of frozen vegetables covered by a towel on the bridge of your nose 
-4.stay upright, rather than lying down, as this reduces the blood pressure in the blood vessels of your nose and will discourage further bleeding If the bleeding eventually stops, you won't usually need to seek medical advice.   "
+            android:text="@string/nose"
             android:textAppearance="@style/TextAppearance.AppCompat.Body2"
             android:textSize="18sp"
             android:textStyle="bold"

@@ -24,16 +24,176 @@
     <string name="title_activity_bleed_gums">bleed_gums</string>
     <string name="about">
         <![CDATA[
-        <p>We all are well aware about the importance of the fixed amount of blood in the body and also that a drop in it\'s amount can be fatal.</p>
-         <p>To tackle such situations can be very complex hence we bring to you this handy app. Here you can manage your emergency contac
-         ts and inform them in case of an emergency,browse nearest medical facilities, look up first aids for various situat
-         ions and share app with your friends.</p>
+           <p>We all are well aware about the importance of the fixed amount of blood in the body and also that a drop in it\'s amount can be fatal.</p>
+           <p>To tackle such situations can be very complex hence we bring to you this handy app. Here you can manage your emergency contacts and inform them in case of an emergency,browse nearest medical facilities, look up first aids for various situations and share app with your friends.</p>
          ]]>
     </string>
     <string name="ear"><![CDATA[
-    <p>Bleeding Ears If you are with someone and there is blood coming from their ear, this is a serious cause for concern. Typically, a bleeding ear indicates a head injury so there are basic first aid steps that should be followed.</p>
-     <p>1. Gently place a sterile gauze or pad over the ear, not inside the ear! 2. Lay the individual on their side so that the affected ear is on the ground. This will allow blood and fluids to drain outward.</p>
-     <p>3. Always treat the individual as if you are dealing with a serious head injury and do not allow them to fall asleep. You want them to be calm and relaxed yet awake. Reassure them and ask questions so they talk if you feel as though they are going to dose off.</p>
+           <p>Bleeding Ears If you are with someone and there is blood coming from their ear, this is a serious cause for concern. Typically, a bleeding ear indicates a head injury so there are basic first aid steps that should be followed.</p>
+           <p>1. Gently place a sterile gauze or pad over the ear, not inside the ear!</p>
+           <p>2. Lay the individual on their side so that the affected ear is on the ground. This will allow blood and fluids to drain outward.</p>
+           <p>3. Always treat the individual as if you are dealing with a serious head injury and do not allow them to fall asleep. You want them to be calm and relaxed yet awake. Reassure them and ask questions so they talk if you feel as though they are going to dose off.</p>
 ]]></string>
+
+    <string name="gums"><![CDATA[
+         <h4>Gums bleeding and teeth injuries</h4>
+
+        <b>What to Do If a baby, toddler, or young child injures the gums or baby teeth:</b>
+
+        <p>1. Apply pressure to the area (if it\'s bleeding) with a piece of cold, wet gauze. If your child is old enough to follow directions, ask him or her to bite down on the gauze.</p>
+   <p>2. Offer an ice pop to suck on to reduce swelling, or hold an ice-pack wrapped in a washcloth to the cheek.</p>
+<p>3. Give acetaminophen or ibuprofen as needed for pain.</p>
+<p>4. Call a dentist.</p>
+<p>5. Watch for swelling of the gums, pain, fever, or a change in the color of the tooth.</p>
+
+
+ <b>If a permanent tooth is chipped or broken:</b>
+ <p>1. Collect all pieces of the tooth.</p>
+ <p>2. Rinse the mouth with warm water.</p>
+ <p>3. Call a dentist right away to schedule a visit. Seek Medical Care If a Permanent Tooth Is Knocked Out: Go to the dentist or emergency room right away after following these steps:  <p>
+    <p>1. Find the tooth. Call a dentist or emergency room right away if you aren't sure if it's a permanent tooth (baby teeth have smooth edges).</p>
+    <p>2. Hold the tooth by the crown (the &quot;chewing&quot; end of the tooth) — not the root.</p>
+    <p>3. Place the tooth in a balanced salt solution (a commercially available sterile product), if you have it. If not, place the tooth in a container of milk or your child's saliva. You also can place the tooth between your lower lip and gum. Do not store it in tap water.</p>
+    <p>4. For older kids and teens, try placing the tooth back in the socket without touching the root. Have your child bite down on gauze to help keep it in place.</p>
+    <p>5. If the tooth is stored in a container (rather than back in the socket), have your child bite down on a gauze pad or handkerchief to relieve bleeding and pain.</p>
+]]></string>
+
+
+    <string name="minor"><![CDATA[
+  <h4> >>>>For Minor Bleeding From a Small Cut or Scrape:</h4>
+    <p>• Rinse the wound thoroughly with water to clean out dirt and debris.</p>
+    <p>• Wash the wound with a mild soap and rinse well. (For minor wounds, you don\'t need to use an antiseptic solution to prevent infection, and some can cause allergic skin reactions.)</p>
+    <p>• Cover the wound with a sterile adhesive bandage or sterile gauze and adhesive tape.</p>
+    <p>• If the bandage gets wet, remove it and apply a new one. After the wound forms a scab, a bandage isn\'t needed.</p>
+    <p>• Check the wound daily. Call your doctor if the wound is red, swollen, tender, warm, or draining pus.</p>
+
+
+
+
+<h4> >>>>For Bleeding From a Large or Deep Cut or Tear:</h4>
+
+  <p>•Rinse off the wound with water so you can see it clearly and check its size.</p>
+  <p>• Place a piece of sterile gauze or a clean cloth over the entire wound. If available, wear clean latex or rubber gloves.</p>
+  <p>• If you can, raise the bleeding body part above the level of the child\'s heart. Do not apply a tourniquet.</p>
+  <p>• Using the palm of your hand on the gauze or cloth, apply steady, direct pressure to the wound for 5 minutes. (During the 5 minutes, do not stop to check the wound or remove blood clots that may form on the gauze.)</p>
+  <p>• If blood soaks through the gauze, do not remove it. Apply another gauze pad on top and continue applying pressure. Call your doctor or get immediate medical care for all large or cuts or tears, or
+    if:</p>
+     <p>• you can\'t stop the bleeding after 5 minutes of pressure, or if the wound begins bleeding again (continue applying pressure until help arrives)</p>
+     <p>• you can\'t clean out dirt and debris thoroughly, or there\'s something else stuck in the wound</p>
+     <p>• the wound is on the child\'s face or neck</p>
+     <p>• the injury was caused by an animal or human bite, a burn, electrical injury, or puncture wound (e.g., a nail)</p>
+     <p>• the cut is more than half an inch long or appears to be deep — large or deep wounds can result in nerve or tendon damage</p>
+
+
+
+     <h4>  >>>>For severe bleeding</h4>
+     <p>1. Remove any clothing or debris on the wound. Don't remove large or deeply embedded objects. Don't probe the wound or attempt to clean it yet. Your first job is to stop the bleeding. Wear disposable protective gloves if available.</p>
+     <p>2. Stop the bleeding. Place a sterile bandage or clean cloth on the wound. Press the bandage firmly with your palm to control bleeding. Apply constant pressure until the bleeding stops. Maintain pressure by binding the wound with a thick bandage or a piece of clean cloth. Don't put direct pressure on an eye injury or embedded object. Secure the bandage with adhesive tape or continue to maintain pressure with your hands. If possible, raise an injured limb above the level of the heart.</p>
+     <p>3. Help the injured person lie down. If possible, place the person on a rug or blanket to prevent loss of body heat. Calmly reassure the injured person.</p>
+     <p>4. Don't remove the gauze or bandage. If the bleeding seeps through the gauze or other cloth on the wound, add another bandage on top of it. And keep pressing firmly on the area</p>.
+     <p>5. Tourniquets: A tourniquet is effective in controlling life-threatening bleeding from a limb. Apply a tourniquet if you're trained in how to do so. When emergency help arrives, explain how long the tourniquet has been in place.</p>
+     <p>6. Immobilize the injured body part as much as possible.Leave the bandages in place and get the injured person to an emergency room as soon as possible. </p>
+
+]]></string>
+
+    <string name="rip"><![CDATA[
+     <h4> >>If Finger got ripped apart</h4>
+
+ <p>1.If part of a finger is amputated, the priority is to look after the child. Sit them down, reassure them and grab a cloth to apply direct pressure to the stump, elevate the injured hand above the level of the heart.</p>
+ <p>2.Do not worry about the amputated part, until bleeding has been controlled and the child is calmer. Pick up the finger, do not wash it. Wrap it in a cloth, put this in a plastic bag and then put on an ice pack.</p>
+ <p>3.Do not let the ice come directly into contact with the amputated part as it will cause ice burns and mean that the finger will not be able to be sewn back.</p>
+ <p>4. You are chilling, not freezing the amputated part to prevent it decomposing. Transport the child and amputated finger to hospital, if necessary by ambulance.</p>
+ <p>5.If the finger is still partly attached with a blood supply, bandage the severed part carefully in situ, not too tightly, support and elevate the hand and call an ambulance.</p>
+ <p>6.If fingers are crushed and bruised, but there is no amputation, run the damaged area under cool running water for 10 minutes, then apply a wrapped ice pack, elevate the injured hand and seek medical advice</p>
+    ]]></string>
+
+    <string name="nose"><![CDATA[
+
+   <h4>To stop a nosebleed:</h4>
+
+<p>1.Sit down and firmly pinch the soft part of your nose, just above your nostrils, for at least 10-15 minutes</P>
+<p>2.Lean forward and breathe through your mouth – this will drain blood down your nose instead of down the back of your throat</p>
+<p>3.Place an ice pack or bag of frozen vegetables covered by a towel on the bridge of your nose </p>
+<p>4.stay upright, rather than lying down, as this reduces the blood pressure in the blood vessels of your nose and will discourage further bleeding If the bleeding eventually stops, you won't usually need to seek medical advice.   </p>
+      ]]></string>
+
+    <string name="wrist"><![CDATA[
+
+    <h4>Slit Wrist</h4>
+
+     <p>Stop the Bleeding</p>
+       <p>1. In the wrists there are both a very large artery and vein. Once they are pierced, they will gush blood until the person dies, unless something is done quickly. So, stopping or at least slowing the bleeding is your number one priority. First you want to get very high pressure over the slit wrist. The best way to do this quickly is to get something to serve as a bandage and wrap it tightly around the wrist. Obviously, bandages and gauze are best for this, but strips of cloth, towel, and clothing are fine also. Use whatever is handy, don’t waste time looking for something clean.</p>
+       <p>2.Once this has been applied, don’t remove it, even when it bleed through. Instead, apply  more bandaging and pressure on top of it. There is a pressure point on the inside fold of the elbow. Putting pressure here will also slow blood flow to the wrist.</p>
+       <p>3. Try to avoid tourniquets except as a very last resort to save a life. The only exception would be to apply the tourniquet momentarily as you apply the bandage. Then, release it to allow blood flow to return to the arm.</p>
+
+
+    <p>After
+    If someone has a slit wrist due to an attempted suicide, you need to make sure that they get proper medical and psychological help for their condition. There is usually some serious problem, like acute depression, that needs immediate and long term attention. Luckily there are many successful programs and treatments that will reduce the likelyhood of a repeat attempt.</p>
+
+     ]]></string>
+
+    <string name="mestrual"><![CDATA[
+     <h4>Heavy Menstrual Flow</h4>
+
+<p>1.Apply a cold compress on the abdomen. The cold temperature causes vasoconstriction which constricts the vessels of blood. This helps lessen the flow of blood and pain felt in the lower abdomen. Simply place ice cubes in a thin towel and tie it properly and place it on the abdomen for at least 15-20 minutes. Lie down for a few minutes and relax. Repeat this procedure every 4 hours as long as the symptoms can be felt.</p>
+<p>2.Apple cider vinegar functions as a stimulant that helps flushes out toxins from the body and maintains hormonal balance. It also helps minimize headaches, cramping, fatigue and irritability. In a glass of water, mix 1-2 teaspoons of raw and unfiltered apple cider vinegar and drink the solution at least 3 times every day during the menstrual cycle for the best results</p>
+<p>3.In a cup filled with hot water, add a teaspoon of cinnamon powder and simmer for a few minutes. Add a few drops of honey and drink it at least 2 times every day. Cinnamon helps lessen the heavy menstrual flow due to endometriosis, uterine fibroids. Cinnamon has anti-inflammatory and anti-spasmodic properties that help in relieving the menstrual cramps.</p>
+<p>4.• Grate or crush fresh ginger and place it in water to boil. Steep the ginger in boiling water for at least 10 minutes. Honey or sugar can be added to the solution and drink it at 4 times every day. Ginger provides relief for women suffering from heavy bleeding during menstrual periods.</p>
+ 
+
+
+     ]]></string>
+
+    <string name="wounds"><![CDATA[
+
+    <h4>Bleeding Wounds</h4>
+
+<b>1. Stop Bleeding</b>
+	<p>• Apply direct pressure on the cut or wound with a clean cloth, tissue, or piece of gauze until bleeding stops.</p>
+	<p>• If blood soaks through the material, don’t remove it. Put more cloth or gauze on top of it and continue to apply pressure</p>.
+	<p>• If the wound is on the arm or leg, raise limb above the heart, if possible, to help slow bleeding.</p>
+	<p>• Wash your hands again after giving first aid and before cleaning and dressing the wound.</p>
+	<p>• Do not apply a tourniquet unless the bleeding is severe and not stopped with direct pressure.</p>
+
+<b>2. Clean Cut or Wound</b>
+	<p>• Gently clean with soap and warm water. Try to rinse soap out of wound to prevent irritation.</p>
+	<p>• Don’t use hydrogen peroxide or iodine, which can damage tissue.</p>
+
+<b>3. Protect the Wound</b>
+	<p>• Apply antibiotic cream to reduce risk of infection and cover with a sterile bandage.</p>
+	<p>• Change the bandage daily to keep the wound clean and dry.</p>
+
+    ]]></string>
+
+    <string name="head"><![CDATA[
+     <h4>Cut on head Bleeding</h4>
+
+<b>When emergency treatment is necessary</b>
+<p>If a cut from a head injury is deep enough to have penetrated the skull, emergency treatment is needed. Call on other emergency services immediately. Do not apply pressure if:</p>
+
+<p>1. The skull is deformed. Signs of deformity may include sunken areas, visible bone fragments, or exposed brain.</p>
+<p>2. The injury involves the eye.</p>
+<p>3.A cut is deep enough to pierce the skull.</p>
+
+
+<b>Stopping the bleeding from a minor wound</b>
+<p>1. Before you try to stop the bleeding:</p>
+	<p>○ Wash your hands well with soap and water (if available).</p>
+	<p>○ If treating another person\'s wound, put on latex gloves, if you have them, before applying pressure to the wound. If gloves are not available, use several layers of fabric or plastic bags between your hand and the wound. Use your bare hands to apply pressure only as a last resort.</p>
+<p>2.Have the person lie down.</p>
+<p>3.Remove any visible objects from the wound. Do not attempt to clean out the wound.</p>
+<p>4.Press firmly on the wound with gauze, a clean cloth, or the cleanest material available. If there is an object in the wound that you can\'t remove, apply pressure around the object, not directly over it.</p>
+<p>5.Apply steady pressure for a full 15 minutes. Use a clock to time the 15 minutes. Resist the urge to peek after a few minutes to see if bleeding has stopped. If blood soaks through the cloth, apply another one without lifting the first.</p>
+<p>6.If moderate to severe bleeding has not slowed or stopped, continue direct pressure while getting help. Do all you can to keep the wound clean and avoid further injury to the area.</p>
+<p>7.Mild bleeding usually stops on its own or slows to an ooze or trickle after 15 minutes of pressure. It may ooze or trickle for up to 45 minutes.</p>
+<p>8.Watch for signs of shock, which is a life-threatening situation that requires emergency care. Signs of shock (most of which will be present) include:</p>
+	<p>○ Passing out (losing consciousness).</p>
+	<p>○ Feeling very dizzy or lightheaded, like you may pass out.</p>
+	<p>○ Feeling very weak or having trouble standing up.</p>
+<p>Being less alert. You may suddenly be unable to respond to questions, or you may be confused, restless, or fearful</p>
+    ]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

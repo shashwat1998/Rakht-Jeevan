@@ -19,7 +19,7 @@
         <item
             android:id="@+id/bloodloss"
             android:icon="@drawable/ic_local_hospital_black_24dp"
-            android:title="Blood Loss Sitautions" />
+            android:title="Blood Loss Situations" />
         <item
             android:id="@+id/account"
             android:icon="@drawable/ic_account_pin_black_24dp"
