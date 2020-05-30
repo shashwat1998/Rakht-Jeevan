@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hackfest2.iml" filepath="$PROJECT_DIR$/Hackfest2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rakht-Jeevan.iml" filepath="$PROJECT_DIR$/.idea/modules/Rakht-Jeevan.iml" group="Rakht-Jeevan" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Rakht-Jeevan/app" />
     </modules>
   </component>
 </project>

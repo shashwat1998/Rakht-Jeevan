@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.shashwat.hackfest2">
+    package="com.shashwat.rakhtjeevan">
     <uses-permission android:name="android.permission.SEND_SMS"/>
 
     <application
@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.shashwat.rakhtjeevan.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,19 +20,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SOSBut" />
-        <activity android:name=".bloodLossHome" />
-        <activity android:name=".bleed_minor" />
-        <activity android:name=".bleed_rip" />
-        <activity android:name=".bleed_mestrual" />
-        <activity android:name=".bleed_gums" />
-        <activity android:name=".bleed_nose" />
-        <activity android:name=".bleed_ears" />
-        <activity android:name=".bleed_wounds" />
-        <activity android:name=".bleed_wrist" />
-        <activity android:name=".bleed_head" />
-        <activity android:name=".view_contacts" />
-        <activity android:name=".add_contacts"></activity>
+        <activity android:name="com.shashwat.rakhtjeevan.SOSBut" />
+        <activity android:name="com.shashwat.rakhtjeevan.bloodLossHome" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_minor" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_rip" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_mestrual" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_gums" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_nose" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_ears" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_wounds" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_wrist" />
+        <activity android:name="com.shashwat.rakhtjeevan.bleed_head" />
+        <activity android:name="com.shashwat.rakhtjeevan.view_contacts" />
+        <activity android:name="com.shashwat.rakhtjeevan.add_contacts"></activity>
     </application>
 
 </manifest>
