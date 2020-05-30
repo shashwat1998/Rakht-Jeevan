@@ -2,12 +2,12 @@
 
 Rakht-Jeevan is an Android Application focused to help you in emergencies.
 
-<p align="center" style ="height: 400px">
-<img src="screenshots/home.jpeg"/>
+<p align="center">
+<img src="screenshots/home.jpeg" height="400"/>
 <><>
-<img src="screenshots/drawer.jpeg"/>
+<img src="screenshots/drawer.jpeg" height="400"/>
 <><>
-<img src="screenshots/sos.jpeg"/>
+<img src="screenshots/sos.jpeg" height="400"/>
  </p>
 
 \
