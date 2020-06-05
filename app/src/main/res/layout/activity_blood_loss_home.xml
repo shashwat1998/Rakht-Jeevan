@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/buttonnnnnn"
-    tools:context="com.shashwat.hackfest2.bloodLossHome">
+    tools:context="com.shashwat.rakhtjeevan.bloodLossHome">
 
     <Button
         android:id="@+id/buttonMinor"

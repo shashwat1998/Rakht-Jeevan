@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/medical_back"
-    tools:context="com.shashwat.hackfest2.SOSBut">
+    tools:context="com.shashwat.rakhtjeevan.SOSBut">
 
     <Spinner
         android:id="@+id/spinner"

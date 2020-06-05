@@ -8,7 +8,7 @@
         android:layout_height="wrap_content"
         android:background="#3d455b"
         android:layout_alignParentLeft="true"
-        tools:context="com.shashwat.hackfest2.view_contacts">
+        tools:context="com.shashwat.rakhtjeevan.view_contacts">
 
         <HorizontalScrollView
             android:id="@+id/hscrll1"
